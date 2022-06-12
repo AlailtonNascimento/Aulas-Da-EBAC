@@ -1,0 +1,12 @@
+Algoritmo do meu acordar
+Inicio
+1- despertar do sono
+2- abrir os olhos
+3- espriguiçar
+4- tirar o lençol do corpo
+5- mover-se para a beirada da cama
+6- sentar na beirada da cama
+7- colocar os pés no chão
+8- calçar o chinelo
+9- levantar
+Fim
